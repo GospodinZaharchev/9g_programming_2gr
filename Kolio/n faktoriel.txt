@@ -1,0 +1,22 @@
+using System.Numerics;
+
+namespace ConsoleApp366
+{
+    internal class Program
+    {
+        static int Faktoriel(int faktoriel)
+        {
+            int sum = faktoriel;
+            for (int i = 0; i < faktoriel; i++)
+            {
+                sum = faktoriel * i;
+            }
+            return sum;
+        }
+        static void Main(string[] args)
+        {
+            int sum = Faktoriel(int.Parse(Console.ReadLine()));
+            Console.WriteLine(sum);
+        }
+    }
+}
