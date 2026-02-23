@@ -1,0 +1,24 @@
+using System.Security.Cryptography;
+
+namespace ConsoleApp258
+{
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+            int count = int.Parse(Console.ReadLine());
+            string word = Console.ReadLine();
+
+            PrintWord(word, count);
+            
+        }
+        static void PrintWord(string word, int count) 
+        {
+            for (int i = 0; i < count;i++)
+            {
+                Console.WriteLine(word);
+            }
+        
+        }
+    }
+}
