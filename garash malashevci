@@ -1,0 +1,13 @@
+namespace ConsoleApp348
+{
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+            string name = " az sum Boris Dimitrov Stavrev";
+            string fear = " strahut mi e Dani Mankova";
+            Console.WriteLine(name);    
+            Console.WriteLine(fear);
+        }
+    }
+}
