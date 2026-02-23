@@ -1,0 +1,30 @@
+namespace ConsoleApp350
+{
+    
+    class Count
+    {
+        public string a;
+        public int b;
+        public Count(string a, Int32 b)
+        {
+            this.a = a;
+            this.b = b;
+        }
+        public void zadacha()
+        {
+            for (Int128 i = 0; i < b; i++)
+            {
+                Console.WriteLine(a);
+            }
+        }
+
+    }
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+            Count count1 = new Count(Console.ReadLine(), Int32.Parse(Console.ReadLine()));
+            count1.zadacha();
+        }
+    }
+}
