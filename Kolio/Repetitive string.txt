@@ -1,0 +1,17 @@
+namespace ConsoleApp366
+{
+    internal class Program
+    {
+        static void Name(string name, int timesRepeated)
+        {
+            for (int i = 0; i <= timesRepeated; i++)
+            {
+                Console.Write($"{name}");
+            }
+        }
+        static void Main(string[] args)
+        {
+            Name(Console.ReadLine(), int.Parse(Console.ReadLine()));
+        }
+    }
+}
