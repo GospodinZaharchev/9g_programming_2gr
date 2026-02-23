@@ -1,0 +1,14 @@
+C:\Users\Student\source\repos\repeatstring\bin\Debug\net9.0\repeatstring.exe
+C:\Users\Student\source\repos\repeatstring\bin\Debug\net9.0\repeatstring.deps.json
+C:\Users\Student\source\repos\repeatstring\bin\Debug\net9.0\repeatstring.runtimeconfig.json
+C:\Users\Student\source\repos\repeatstring\bin\Debug\net9.0\repeatstring.dll
+C:\Users\Student\source\repos\repeatstring\bin\Debug\net9.0\repeatstring.pdb
+C:\Users\Student\source\repos\repeatstring\obj\Debug\net9.0\repeatstring.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\source\repos\repeatstring\obj\Debug\net9.0\repeatstring.AssemblyInfoInputs.cache
+C:\Users\Student\source\repos\repeatstring\obj\Debug\net9.0\repeatstring.AssemblyInfo.cs
+C:\Users\Student\source\repos\repeatstring\obj\Debug\net9.0\repeatstring.csproj.CoreCompileInputs.cache
+C:\Users\Student\source\repos\repeatstring\obj\Debug\net9.0\repeatstring.dll
+C:\Users\Student\source\repos\repeatstring\obj\Debug\net9.0\refint\repeatstring.dll
+C:\Users\Student\source\repos\repeatstring\obj\Debug\net9.0\repeatstring.pdb
+C:\Users\Student\source\repos\repeatstring\obj\Debug\net9.0\repeatstring.genruntimeconfig.cache
+C:\Users\Student\source\repos\repeatstring\obj\Debug\net9.0\ref\repeatstring.dll
