@@ -1,0 +1,20 @@
+namespace ConsoleApp321
+{
+    internal class Program
+    {
+        static void RepeatName(string name,int times)
+        {
+
+            for (int i = 0; i < times; i++)
+            {
+                Console.Write($"{name}, ");
+            }
+        }
+        static void Main(string[] args)
+        {
+            
+                RepeatName(Console.ReadLine(), int.Parse(Console.ReadLine()));
+                
+        }
+    }
+}
