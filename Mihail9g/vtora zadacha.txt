@@ -1,0 +1,23 @@
+namespace ConsoleApp322
+{
+    internal class Program
+    {
+        static int Factoriel( int number)
+        {
+            int n = number; 
+           
+            for (int i = 1; i < number; i++)
+            {
+                n = i * number;
+            }
+            return n;
+        }
+        static void Main(string[] args)
+        {
+            Console.WriteLine("Hello, World!");
+            
+            int result = Factoriel(int.Parse(Console.ReadLine()));
+            Console.WriteLine(result);
+        }
+    }
+}
